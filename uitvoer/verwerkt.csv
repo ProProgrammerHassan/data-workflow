@@ -115,15 +115,15 @@ date,home_team,away_team,home_score,away_score
 2023-12-03T14:30:00Z,1. FSV Mainz 05,SC Freiburg,0,1
 2023-12-03T16:30:00Z,Bayer 04 Leverkusen,Borussia Dortmund,1,1
 2023-12-03T18:30:00Z,FC Augsburg,Eintracht Frankfurt,2,1
-2023-12-08T19:30:00Z,TSG 1899 Hoffenheim,VfL Bochum 1848,0,0
-2023-12-09T14:30:00Z,1. FC Union Berlin,Borussia Mönchengladbach,None,None
-2023-12-09T14:30:00Z,Eintracht Frankfurt,FC Bayern München,None,None
-2023-12-09T14:30:00Z,VfL Wolfsburg,SC Freiburg,None,None
-2023-12-09T14:30:00Z,SV Werder Bremen,FC Augsburg,None,None
-2023-12-09T14:30:00Z,1. FC Heidenheim 1846,SV Darmstadt 98,None,None
-2023-12-09T17:30:00Z,Borussia Dortmund,RB Leipzig,None,None
-2023-12-10T14:30:00Z,VfB Stuttgart,Bayer 04 Leverkusen,None,None
-2023-12-10T16:30:00Z,1. FC Köln,1. FSV Mainz 05,None,None
+2023-12-08T19:30:00Z,TSG 1899 Hoffenheim,VfL Bochum 1848,3,1
+2023-12-09T14:30:00Z,1. FC Union Berlin,Borussia Mönchengladbach,3,1
+2023-12-09T14:30:00Z,Eintracht Frankfurt,FC Bayern München,5,1
+2023-12-09T14:30:00Z,VfL Wolfsburg,SC Freiburg,0,1
+2023-12-09T14:30:00Z,SV Werder Bremen,FC Augsburg,2,0
+2023-12-09T14:30:00Z,1. FC Heidenheim 1846,SV Darmstadt 98,3,2
+2023-12-09T17:30:00Z,Borussia Dortmund,RB Leipzig,2,3
+2023-12-10T14:30:00Z,VfB Stuttgart,Bayer 04 Leverkusen,1,1
+2023-12-10T16:30:00Z,1. FC Köln,1. FSV Mainz 05,0,0
 2023-12-15T19:30:00Z,Borussia Mönchengladbach,SV Werder Bremen,None,None
 2023-12-16T14:30:00Z,1. FSV Mainz 05,1. FC Heidenheim 1846,None,None
 2023-12-16T14:30:00Z,VfL Bochum 1848,1. FC Union Berlin,None,None

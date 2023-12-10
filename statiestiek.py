@@ -63,7 +63,6 @@ def calculate_percentage(part, whole):
 
 def generate_markdown(stats, output_filename):
     with open(output_filename, "w") as markdown_file:
-        markdown_file.write("# Team Statistics\n\n")
         markdown_file.write("| Team | Goals For | Goals Against | Goal Difference | Matches Played | Matches Won | Win Percentage |\n")
         markdown_file.write("|------|-----------|--------------|------------------|-----------------|-------------|-----------------|\n")
 
@@ -76,8 +75,6 @@ def generate_markdown(stats, output_filename):
 
             markdown_file.write(f"| {team} | {stat['goals_for']} | {stat['goals_against']} | {goal_difference} | {stat['matches_played']} | {stat['matches_won']} | {win_percentage}% |\n")
 
-        timestamp = datetime.now().strftime("%d/%m/%Y - %H:%M:%S")
-        markdown_file.write(f"\n*Laatst bijgewerkt op {timestamp}*")
         
         logging.info(f"Statistieken berekend en opgeslagen in {output_filename}")
 

@@ -1,12 +1,12 @@
 # Bundesliga Statistics:
 ### Number of matches played:
-[matchen]
+250
 
 ### Total goals scored this season by all teams combined:
-[goals_for]
+427
 
 ### Total goal difference:
-[goal_diff]
+0
 
 ## Lorem ipsum 
 dolor sit amet, consectetur adipiscing elit. Nulla turpis magna, accumsan eget hendrerit id, bibendum vitae tortor. Morbi imperdiet, arcu sit amet viverra rhoncus, massa nisi auctor dui, placerat imperdiet ante lacus et turpis.Nunc eu odio ultricies 

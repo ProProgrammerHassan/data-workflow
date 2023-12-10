@@ -1,24 +1,20 @@
-# Team Statistics
-
 | Team | Goals For | Goals Against | Goal Difference | Matches Played | Matches Won | Win Percentage |
 |------|-----------|--------------|------------------|-----------------|-------------|-----------------|
-| Bayer 04 Leverkusen | 38 | 11 | 27 | 13 | 11 | 84.62% |
-| FC Bayern München | 43 | 9 | 34 | 12 | 10 | 83.33% |
-| VfB Stuttgart | 33 | 15 | 18 | 13 | 10 | 76.92% |
-| RB Leipzig | 31 | 13 | 18 | 13 | 8 | 61.54% |
-| Borussia Dortmund | 26 | 20 | 6 | 13 | 7 | 53.85% |
-| TSG 1899 Hoffenheim | 25 | 23 | 2 | 14 | 6 | 42.86% |
-| VfL Wolfsburg | 18 | 24 | -6 | 13 | 5 | 38.46% |
-| SC Freiburg | 16 | 23 | -7 | 13 | 5 | 38.46% |
-| FC Augsburg | 23 | 25 | -2 | 13 | 4 | 30.77% |
-| Borussia Mönchengladbach | 27 | 28 | -1 | 13 | 4 | 30.77% |
-| Eintracht Frankfurt | 19 | 15 | 4 | 13 | 4 | 30.77% |
-| SV Werder Bremen | 18 | 27 | -9 | 13 | 3 | 23.08% |
-| 1. FC Heidenheim 1846 | 18 | 28 | -10 | 13 | 3 | 23.08% |
-| 1. FC Union Berlin | 12 | 27 | -15 | 12 | 2 | 16.67% |
-| 1. FC Köln | 10 | 24 | -14 | 13 | 2 | 15.38% |
-| SV Darmstadt 98 | 15 | 34 | -19 | 13 | 2 | 15.38% |
-| VfL Bochum 1848 | 14 | 26 | -12 | 14 | 2 | 14.29% |
-| 1. FSV Mainz 05 | 12 | 26 | -14 | 13 | 1 | 7.69% |
-
-*Laatst bijgewerkt op 08/12/2023 - 22:11:31*
+| Bayer 04 Leverkusen | 39 | 12 | 27 | 14 | 11 | 78.57% |
+| FC Bayern München | 44 | 14 | 30 | 13 | 10 | 76.92% |
+| VfB Stuttgart | 34 | 16 | 18 | 14 | 10 | 71.43% |
+| RB Leipzig | 34 | 15 | 19 | 14 | 9 | 64.29% |
+| TSG 1899 Hoffenheim | 28 | 24 | 4 | 14 | 7 | 50.0% |
+| Borussia Dortmund | 28 | 23 | 5 | 14 | 7 | 50.0% |
+| SC Freiburg | 17 | 23 | -6 | 14 | 6 | 42.86% |
+| VfL Wolfsburg | 18 | 25 | -7 | 14 | 5 | 35.71% |
+| Eintracht Frankfurt | 24 | 16 | 8 | 14 | 5 | 35.71% |
+| SV Werder Bremen | 20 | 27 | -7 | 14 | 4 | 28.57% |
+| 1. FC Heidenheim 1846 | 21 | 30 | -9 | 14 | 4 | 28.57% |
+| FC Augsburg | 23 | 27 | -4 | 14 | 4 | 28.57% |
+| Borussia Mönchengladbach | 28 | 31 | -3 | 14 | 4 | 28.57% |
+| 1. FC Union Berlin | 15 | 28 | -13 | 13 | 3 | 23.08% |
+| VfL Bochum 1848 | 15 | 29 | -14 | 14 | 2 | 14.29% |
+| 1. FC Köln | 10 | 24 | -14 | 14 | 2 | 14.29% |
+| SV Darmstadt 98 | 17 | 37 | -20 | 14 | 2 | 14.29% |
+| 1. FSV Mainz 05 | 12 | 26 | -14 | 14 | 1 | 7.14% |
