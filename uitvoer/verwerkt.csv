@@ -1,0 +1,307 @@
+date,home_team,away_team,home_score,away_score
+2023-08-18T18:30:00Z,SV Werder Bremen,FC Bayern München,0,4
+2023-08-19T13:30:00Z,Bayer 04 Leverkusen,RB Leipzig,3,2
+2023-08-19T13:30:00Z,VfL Wolfsburg,1. FC Heidenheim 1846,2,0
+2023-08-19T13:30:00Z,TSG 1899 Hoffenheim,SC Freiburg,1,2
+2023-08-19T13:30:00Z,FC Augsburg,Borussia Mönchengladbach,4,4
+2023-08-19T13:30:00Z,VfB Stuttgart,VfL Bochum 1848,5,0
+2023-08-19T16:30:00Z,Borussia Dortmund,1. FC Köln,1,0
+2023-08-20T13:30:00Z,1. FC Union Berlin,1. FSV Mainz 05,4,1
+2023-08-20T15:30:00Z,Eintracht Frankfurt,SV Darmstadt 98,1,0
+2023-08-25T18:30:00Z,RB Leipzig,VfB Stuttgart,5,1
+2023-08-26T13:30:00Z,SC Freiburg,SV Werder Bremen,1,0
+2023-08-26T13:30:00Z,1. FC Köln,VfL Wolfsburg,1,2
+2023-08-26T13:30:00Z,VfL Bochum 1848,Borussia Dortmund,1,1
+2023-08-26T13:30:00Z,1. FC Heidenheim 1846,TSG 1899 Hoffenheim,2,3
+2023-08-26T13:30:00Z,SV Darmstadt 98,1. FC Union Berlin,1,4
+2023-08-26T16:30:00Z,Borussia Mönchengladbach,Bayer 04 Leverkusen,0,3
+2023-08-27T13:30:00Z,1. FSV Mainz 05,Eintracht Frankfurt,1,1
+2023-08-27T15:30:00Z,FC Bayern München,FC Augsburg,3,1
+2023-09-01T18:30:00Z,Borussia Dortmund,1. FC Heidenheim 1846,2,2
+2023-09-02T13:30:00Z,Bayer 04 Leverkusen,SV Darmstadt 98,5,1
+2023-09-02T13:30:00Z,TSG 1899 Hoffenheim,VfL Wolfsburg,3,1
+2023-09-02T13:30:00Z,SV Werder Bremen,1. FSV Mainz 05,4,0
+2023-09-02T13:30:00Z,FC Augsburg,VfL Bochum 1848,2,2
+2023-09-02T13:30:00Z,VfB Stuttgart,SC Freiburg,5,0
+2023-09-02T16:30:00Z,Borussia Mönchengladbach,FC Bayern München,1,2
+2023-09-03T13:30:00Z,Eintracht Frankfurt,1. FC Köln,1,1
+2023-09-03T15:30:00Z,1. FC Union Berlin,RB Leipzig,0,3
+2023-09-15T18:30:00Z,FC Bayern München,Bayer 04 Leverkusen,2,2
+2023-09-16T13:30:00Z,RB Leipzig,FC Augsburg,3,0
+2023-09-16T13:30:00Z,SC Freiburg,Borussia Dortmund,2,4
+2023-09-16T13:30:00Z,VfL Wolfsburg,1. FC Union Berlin,2,1
+2023-09-16T13:30:00Z,1. FSV Mainz 05,VfB Stuttgart,1,3
+2023-09-16T13:30:00Z,1. FC Köln,TSG 1899 Hoffenheim,1,3
+2023-09-16T16:30:00Z,VfL Bochum 1848,Eintracht Frankfurt,1,1
+2023-09-17T13:30:00Z,1. FC Heidenheim 1846,SV Werder Bremen,4,2
+2023-09-17T15:30:00Z,SV Darmstadt 98,Borussia Mönchengladbach,3,3
+2023-09-22T18:30:00Z,VfB Stuttgart,SV Darmstadt 98,3,1
+2023-09-23T13:30:00Z,FC Bayern München,VfL Bochum 1848,7,0
+2023-09-23T13:30:00Z,Borussia Dortmund,VfL Wolfsburg,1,0
+2023-09-23T13:30:00Z,1. FC Union Berlin,TSG 1899 Hoffenheim,0,2
+2023-09-23T13:30:00Z,Borussia Mönchengladbach,RB Leipzig,0,1
+2023-09-23T13:30:00Z,FC Augsburg,1. FSV Mainz 05,2,1
+2023-09-23T16:30:00Z,SV Werder Bremen,1. FC Köln,2,1
+2023-09-24T13:30:00Z,Bayer 04 Leverkusen,1. FC Heidenheim 1846,4,1
+2023-09-24T15:30:00Z,Eintracht Frankfurt,SC Freiburg,0,0
+2023-09-29T18:30:00Z,TSG 1899 Hoffenheim,Borussia Dortmund,1,3
+2023-09-30T13:30:00Z,VfL Wolfsburg,Eintracht Frankfurt,2,0
+2023-09-30T13:30:00Z,1. FSV Mainz 05,Bayer 04 Leverkusen,0,3
+2023-09-30T13:30:00Z,1. FC Köln,VfB Stuttgart,0,2
+2023-09-30T13:30:00Z,VfL Bochum 1848,Borussia Mönchengladbach,1,3
+2023-09-30T13:30:00Z,1. FC Heidenheim 1846,1. FC Union Berlin,1,0
+2023-09-30T16:30:00Z,RB Leipzig,FC Bayern München,2,2
+2023-10-01T13:30:00Z,SV Darmstadt 98,SV Werder Bremen,4,2
+2023-10-01T15:30:00Z,SC Freiburg,FC Augsburg,2,0
+2023-10-06T18:30:00Z,Borussia Mönchengladbach,1. FSV Mainz 05,2,2
+2023-10-07T13:30:00Z,Borussia Dortmund,1. FC Union Berlin,4,2
+2023-10-07T13:30:00Z,RB Leipzig,VfL Bochum 1848,0,0
+2023-10-07T13:30:00Z,FC Augsburg,SV Darmstadt 98,1,2
+2023-10-07T13:30:00Z,VfB Stuttgart,VfL Wolfsburg,3,1
+2023-10-07T16:30:00Z,SV Werder Bremen,TSG 1899 Hoffenheim,2,3
+2023-10-08T13:30:00Z,Bayer 04 Leverkusen,1. FC Köln,3,0
+2023-10-08T15:30:00Z,FC Bayern München,SC Freiburg,3,0
+2023-10-08T17:30:00Z,Eintracht Frankfurt,1. FC Heidenheim 1846,2,0
+2023-10-20T18:30:00Z,Borussia Dortmund,SV Werder Bremen,1,0
+2023-10-21T13:30:00Z,TSG 1899 Hoffenheim,Eintracht Frankfurt,1,3
+2023-10-21T13:30:00Z,SV Darmstadt 98,RB Leipzig,1,3
+2023-10-21T13:30:00Z,1. FC Union Berlin,VfB Stuttgart,0,3
+2023-10-21T13:30:00Z,SC Freiburg,VfL Bochum 1848,2,1
+2023-10-21T13:30:00Z,VfL Wolfsburg,Bayer 04 Leverkusen,1,2
+2023-10-21T16:30:00Z,1. FSV Mainz 05,FC Bayern München,1,3
+2023-10-22T13:30:00Z,1. FC Köln,Borussia Mönchengladbach,3,1
+2023-10-22T15:30:00Z,1. FC Heidenheim 1846,FC Augsburg,2,5
+2023-10-27T18:30:00Z,VfL Bochum 1848,1. FSV Mainz 05,2,2
+2023-10-28T13:30:00Z,FC Bayern München,SV Darmstadt 98,8,0
+2023-10-28T13:30:00Z,Borussia Mönchengladbach,1. FC Heidenheim 1846,2,1
+2023-10-28T13:30:00Z,SV Werder Bremen,1. FC Union Berlin,2,0
+2023-10-28T13:30:00Z,FC Augsburg,VfL Wolfsburg,3,2
+2023-10-28T13:30:00Z,VfB Stuttgart,TSG 1899 Hoffenheim,2,3
+2023-10-28T16:30:00Z,RB Leipzig,1. FC Köln,6,0
+2023-10-29T14:30:00Z,Eintracht Frankfurt,Borussia Dortmund,3,3
+2023-10-29T16:30:00Z,Bayer 04 Leverkusen,SC Freiburg,2,1
+2023-11-03T19:30:00Z,SV Darmstadt 98,VfL Bochum 1848,1,2
+2023-11-04T14:30:00Z,1. FC Union Berlin,Eintracht Frankfurt,0,3
+2023-11-04T14:30:00Z,SC Freiburg,Borussia Mönchengladbach,3,3
+2023-11-04T14:30:00Z,1. FSV Mainz 05,RB Leipzig,2,0
+2023-11-04T14:30:00Z,1. FC Köln,FC Augsburg,1,1
+2023-11-04T14:30:00Z,TSG 1899 Hoffenheim,Bayer 04 Leverkusen,2,3
+2023-11-04T17:30:00Z,Borussia Dortmund,FC Bayern München,0,4
+2023-11-05T14:30:00Z,VfL Wolfsburg,SV Werder Bremen,2,2
+2023-11-05T16:30:00Z,1. FC Heidenheim 1846,VfB Stuttgart,2,0
+2023-11-10T19:30:00Z,Borussia Mönchengladbach,VfL Wolfsburg,4,0
+2023-11-11T14:30:00Z,FC Bayern München,1. FC Heidenheim 1846,4,2
+2023-11-11T14:30:00Z,FC Augsburg,TSG 1899 Hoffenheim,1,1
+2023-11-11T14:30:00Z,VfB Stuttgart,Borussia Dortmund,2,1
+2023-11-11T14:30:00Z,SV Darmstadt 98,1. FSV Mainz 05,0,0
+2023-11-11T17:30:00Z,VfL Bochum 1848,1. FC Köln,1,1
+2023-11-12T14:30:00Z,Bayer 04 Leverkusen,1. FC Union Berlin,4,0
+2023-11-12T16:30:00Z,SV Werder Bremen,Eintracht Frankfurt,2,2
+2023-11-12T18:30:00Z,RB Leipzig,SC Freiburg,3,1
+2023-11-24T19:30:00Z,1. FC Köln,FC Bayern München,0,1
+2023-11-25T14:30:00Z,Borussia Dortmund,Borussia Mönchengladbach,4,2
+2023-11-25T14:30:00Z,1. FC Union Berlin,FC Augsburg,1,1
+2023-11-25T14:30:00Z,SC Freiburg,SV Darmstadt 98,1,1
+2023-11-25T14:30:00Z,VfL Wolfsburg,RB Leipzig,2,1
+2023-11-25T14:30:00Z,SV Werder Bremen,Bayer 04 Leverkusen,0,3
+2023-11-25T17:30:00Z,Eintracht Frankfurt,VfB Stuttgart,1,2
+2023-11-26T14:30:00Z,1. FC Heidenheim 1846,VfL Bochum 1848,0,0
+2023-11-26T16:30:00Z,TSG 1899 Hoffenheim,1. FSV Mainz 05,1,1
+2023-12-01T19:30:00Z,SV Darmstadt 98,1. FC Köln,0,1
+2023-12-02T14:30:00Z,RB Leipzig,1. FC Heidenheim 1846,2,1
+2023-12-02T14:30:00Z,Borussia Mönchengladbach,TSG 1899 Hoffenheim,2,1
+2023-12-02T14:30:00Z,VfL Bochum 1848,VfL Wolfsburg,3,1
+2023-12-02T17:30:00Z,VfB Stuttgart,SV Werder Bremen,2,0
+2023-12-03T14:30:00Z,1. FSV Mainz 05,SC Freiburg,0,1
+2023-12-03T16:30:00Z,Bayer 04 Leverkusen,Borussia Dortmund,1,1
+2023-12-03T18:30:00Z,FC Augsburg,Eintracht Frankfurt,2,1
+2023-12-08T19:30:00Z,TSG 1899 Hoffenheim,VfL Bochum 1848,0,0
+2023-12-09T14:30:00Z,1. FC Union Berlin,Borussia Mönchengladbach,None,None
+2023-12-09T14:30:00Z,Eintracht Frankfurt,FC Bayern München,None,None
+2023-12-09T14:30:00Z,VfL Wolfsburg,SC Freiburg,None,None
+2023-12-09T14:30:00Z,SV Werder Bremen,FC Augsburg,None,None
+2023-12-09T14:30:00Z,1. FC Heidenheim 1846,SV Darmstadt 98,None,None
+2023-12-09T17:30:00Z,Borussia Dortmund,RB Leipzig,None,None
+2023-12-10T14:30:00Z,VfB Stuttgart,Bayer 04 Leverkusen,None,None
+2023-12-10T16:30:00Z,1. FC Köln,1. FSV Mainz 05,None,None
+2023-12-15T19:30:00Z,Borussia Mönchengladbach,SV Werder Bremen,None,None
+2023-12-16T14:30:00Z,1. FSV Mainz 05,1. FC Heidenheim 1846,None,None
+2023-12-16T14:30:00Z,VfL Bochum 1848,1. FC Union Berlin,None,None
+2023-12-16T14:30:00Z,FC Augsburg,Borussia Dortmund,None,None
+2023-12-16T14:30:00Z,SV Darmstadt 98,VfL Wolfsburg,None,None
+2023-12-16T17:30:00Z,RB Leipzig,TSG 1899 Hoffenheim,None,None
+2023-12-17T14:30:00Z,SC Freiburg,1. FC Köln,None,None
+2023-12-17T16:30:00Z,Bayer 04 Leverkusen,Eintracht Frankfurt,None,None
+2023-12-17T18:30:00Z,FC Bayern München,VfB Stuttgart,None,None
+2023-12-19T17:30:00Z,SV Werder Bremen,RB Leipzig,None,None
+2023-12-19T19:30:00Z,Borussia Dortmund,1. FSV Mainz 05,None,None
+2023-12-19T19:30:00Z,TSG 1899 Hoffenheim,SV Darmstadt 98,None,None
+2023-12-20T17:30:00Z,1. FC Union Berlin,1. FC Köln,None,None
+2023-12-20T19:30:00Z,Bayer 04 Leverkusen,VfL Bochum 1848,None,None
+2023-12-20T19:30:00Z,Eintracht Frankfurt,Borussia Mönchengladbach,None,None
+2023-12-20T19:30:00Z,VfL Wolfsburg,FC Bayern München,None,None
+2023-12-20T19:30:00Z,VfB Stuttgart,FC Augsburg,None,None
+2023-12-20T19:30:00Z,1. FC Heidenheim 1846,SC Freiburg,None,None
+2024-01-12T19:30:00Z,FC Bayern München,TSG 1899 Hoffenheim,None,None
+2024-01-13T14:30:00Z,RB Leipzig,Eintracht Frankfurt,None,None
+2024-01-13T14:30:00Z,SC Freiburg,1. FC Union Berlin,None,None
+2024-01-13T14:30:00Z,1. FSV Mainz 05,VfL Wolfsburg,None,None
+2024-01-13T14:30:00Z,1. FC Köln,1. FC Heidenheim 1846,None,None
+2024-01-13T14:30:00Z,FC Augsburg,Bayer 04 Leverkusen,None,None
+2024-01-13T17:30:00Z,SV Darmstadt 98,Borussia Dortmund,None,None
+2024-01-14T14:30:00Z,VfL Bochum 1848,SV Werder Bremen,None,None
+2024-01-14T16:30:00Z,Borussia Mönchengladbach,VfB Stuttgart,None,None
+2024-01-19T19:30:00Z,1. FSV Mainz 05,1. FC Union Berlin,None,None
+2024-01-20T14:30:00Z,1. FC Köln,Borussia Dortmund,None,None
+2024-01-20T14:30:00Z,SV Darmstadt 98,Eintracht Frankfurt,None,None
+2024-01-20T14:30:00Z,1. FC Heidenheim 1846,VfL Wolfsburg,None,None
+2024-01-20T14:30:00Z,SC Freiburg,TSG 1899 Hoffenheim,None,None
+2024-01-20T14:30:00Z,VfL Bochum 1848,VfB Stuttgart,None,None
+2024-01-20T17:30:00Z,RB Leipzig,Bayer 04 Leverkusen,None,None
+2024-01-21T14:30:00Z,FC Bayern München,SV Werder Bremen,None,None
+2024-01-21T16:30:00Z,Borussia Mönchengladbach,FC Augsburg,None,None
+2024-01-24T19:30:00Z,FC Bayern München,1. FC Union Berlin,None,None
+2024-01-27T00:00:00Z,FC Augsburg,FC Bayern München,None,None
+2024-01-27T00:00:00Z,VfB Stuttgart,RB Leipzig,None,None
+2024-01-27T00:00:00Z,SV Werder Bremen,SC Freiburg,None,None
+2024-01-27T00:00:00Z,Eintracht Frankfurt,1. FSV Mainz 05,None,None
+2024-01-27T00:00:00Z,Bayer 04 Leverkusen,Borussia Mönchengladbach,None,None
+2024-01-27T00:00:00Z,VfL Wolfsburg,1. FC Köln,None,None
+2024-01-27T00:00:00Z,Borussia Dortmund,VfL Bochum 1848,None,None
+2024-01-27T00:00:00Z,TSG 1899 Hoffenheim,1. FC Heidenheim 1846,None,None
+2024-01-27T00:00:00Z,1. FC Union Berlin,SV Darmstadt 98,None,None
+2024-02-03T00:00:00Z,1. FC Heidenheim 1846,Borussia Dortmund,None,None
+2024-02-03T00:00:00Z,RB Leipzig,1. FC Union Berlin,None,None
+2024-02-03T00:00:00Z,SV Darmstadt 98,Bayer 04 Leverkusen,None,None
+2024-02-03T00:00:00Z,1. FC Köln,Eintracht Frankfurt,None,None
+2024-02-03T00:00:00Z,FC Bayern München,Borussia Mönchengladbach,None,None
+2024-02-03T00:00:00Z,VfL Wolfsburg,TSG 1899 Hoffenheim,None,None
+2024-02-03T00:00:00Z,1. FSV Mainz 05,SV Werder Bremen,None,None
+2024-02-03T00:00:00Z,VfL Bochum 1848,FC Augsburg,None,None
+2024-02-03T00:00:00Z,SC Freiburg,VfB Stuttgart,None,None
+2024-02-10T00:00:00Z,Bayer 04 Leverkusen,FC Bayern München,None,None
+2024-02-10T00:00:00Z,FC Augsburg,RB Leipzig,None,None
+2024-02-10T00:00:00Z,Borussia Dortmund,SC Freiburg,None,None
+2024-02-10T00:00:00Z,1. FC Union Berlin,VfL Wolfsburg,None,None
+2024-02-10T00:00:00Z,VfB Stuttgart,1. FSV Mainz 05,None,None
+2024-02-10T00:00:00Z,TSG 1899 Hoffenheim,1. FC Köln,None,None
+2024-02-10T00:00:00Z,Eintracht Frankfurt,VfL Bochum 1848,None,None
+2024-02-10T00:00:00Z,SV Werder Bremen,1. FC Heidenheim 1846,None,None
+2024-02-10T00:00:00Z,Borussia Mönchengladbach,SV Darmstadt 98,None,None
+2024-02-17T00:00:00Z,VfL Bochum 1848,FC Bayern München,None,None
+2024-02-17T00:00:00Z,VfL Wolfsburg,Borussia Dortmund,None,None
+2024-02-17T00:00:00Z,TSG 1899 Hoffenheim,1. FC Union Berlin,None,None
+2024-02-17T00:00:00Z,1. FC Heidenheim 1846,Bayer 04 Leverkusen,None,None
+2024-02-17T00:00:00Z,SC Freiburg,Eintracht Frankfurt,None,None
+2024-02-17T00:00:00Z,RB Leipzig,Borussia Mönchengladbach,None,None
+2024-02-17T00:00:00Z,1. FC Köln,SV Werder Bremen,None,None
+2024-02-17T00:00:00Z,1. FSV Mainz 05,FC Augsburg,None,None
+2024-02-17T00:00:00Z,SV Darmstadt 98,VfB Stuttgart,None,None
+2024-02-24T00:00:00Z,FC Bayern München,RB Leipzig,None,None
+2024-02-24T00:00:00Z,FC Augsburg,SC Freiburg,None,None
+2024-02-24T00:00:00Z,Eintracht Frankfurt,VfL Wolfsburg,None,None
+2024-02-24T00:00:00Z,Bayer 04 Leverkusen,1. FSV Mainz 05,None,None
+2024-02-24T00:00:00Z,VfB Stuttgart,1. FC Köln,None,None
+2024-02-24T00:00:00Z,Borussia Dortmund,TSG 1899 Hoffenheim,None,None
+2024-02-24T00:00:00Z,Borussia Mönchengladbach,VfL Bochum 1848,None,None
+2024-02-24T00:00:00Z,1. FC Union Berlin,1. FC Heidenheim 1846,None,None
+2024-02-24T00:00:00Z,SV Werder Bremen,SV Darmstadt 98,None,None
+2024-03-02T00:00:00Z,SC Freiburg,FC Bayern München,None,None
+2024-03-02T00:00:00Z,1. FC Union Berlin,Borussia Dortmund,None,None
+2024-03-02T00:00:00Z,VfL Bochum 1848,RB Leipzig,None,None
+2024-03-02T00:00:00Z,1. FC Köln,Bayer 04 Leverkusen,None,None
+2024-03-02T00:00:00Z,1. FC Heidenheim 1846,Eintracht Frankfurt,None,None
+2024-03-02T00:00:00Z,1. FSV Mainz 05,Borussia Mönchengladbach,None,None
+2024-03-02T00:00:00Z,TSG 1899 Hoffenheim,SV Werder Bremen,None,None
+2024-03-02T00:00:00Z,SV Darmstadt 98,FC Augsburg,None,None
+2024-03-02T00:00:00Z,VfL Wolfsburg,VfB Stuttgart,None,None
+2024-03-09T00:00:00Z,SV Werder Bremen,Borussia Dortmund,None,None
+2024-03-09T00:00:00Z,VfB Stuttgart,1. FC Union Berlin,None,None
+2024-03-09T00:00:00Z,VfL Bochum 1848,SC Freiburg,None,None
+2024-03-09T00:00:00Z,Bayer 04 Leverkusen,VfL Wolfsburg,None,None
+2024-03-09T00:00:00Z,FC Bayern München,1. FSV Mainz 05,None,None
+2024-03-09T00:00:00Z,Borussia Mönchengladbach,1. FC Köln,None,None
+2024-03-09T00:00:00Z,Eintracht Frankfurt,TSG 1899 Hoffenheim,None,None
+2024-03-09T00:00:00Z,FC Augsburg,1. FC Heidenheim 1846,None,None
+2024-03-09T00:00:00Z,RB Leipzig,SV Darmstadt 98,None,None
+2024-03-16T00:00:00Z,SV Darmstadt 98,FC Bayern München,None,None
+2024-03-16T00:00:00Z,1. FC Köln,RB Leipzig,None,None
+2024-03-16T00:00:00Z,SC Freiburg,Bayer 04 Leverkusen,None,None
+2024-03-16T00:00:00Z,Borussia Dortmund,Eintracht Frankfurt,None,None
+2024-03-16T00:00:00Z,1. FC Heidenheim 1846,Borussia Mönchengladbach,None,None
+2024-03-16T00:00:00Z,1. FC Union Berlin,SV Werder Bremen,None,None
+2024-03-16T00:00:00Z,1. FSV Mainz 05,VfL Bochum 1848,None,None
+2024-03-16T00:00:00Z,VfL Wolfsburg,FC Augsburg,None,None
+2024-03-16T00:00:00Z,TSG 1899 Hoffenheim,VfB Stuttgart,None,None
+2024-03-30T00:00:00Z,FC Bayern München,Borussia Dortmund,None,None
+2024-03-30T00:00:00Z,Eintracht Frankfurt,1. FC Union Berlin,None,None
+2024-03-30T00:00:00Z,Borussia Mönchengladbach,SC Freiburg,None,None
+2024-03-30T00:00:00Z,SV Werder Bremen,VfL Wolfsburg,None,None
+2024-03-30T00:00:00Z,RB Leipzig,1. FSV Mainz 05,None,None
+2024-03-30T00:00:00Z,FC Augsburg,1. FC Köln,None,None
+2024-03-30T00:00:00Z,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,None,None
+2024-03-30T00:00:00Z,VfB Stuttgart,1. FC Heidenheim 1846,None,None
+2024-03-30T00:00:00Z,VfL Bochum 1848,SV Darmstadt 98,None,None
+2024-04-06T00:00:00Z,1. FC Heidenheim 1846,FC Bayern München,None,None
+2024-04-06T00:00:00Z,SC Freiburg,RB Leipzig,None,None
+2024-04-06T00:00:00Z,1. FC Union Berlin,Bayer 04 Leverkusen,None,None
+2024-04-06T00:00:00Z,VfL Wolfsburg,Borussia Mönchengladbach,None,None
+2024-04-06T00:00:00Z,Eintracht Frankfurt,SV Werder Bremen,None,None
+2024-04-06T00:00:00Z,1. FC Köln,VfL Bochum 1848,None,None
+2024-04-06T00:00:00Z,TSG 1899 Hoffenheim,FC Augsburg,None,None
+2024-04-06T00:00:00Z,Borussia Dortmund,VfB Stuttgart,None,None
+2024-04-06T00:00:00Z,1. FSV Mainz 05,SV Darmstadt 98,None,None
+2024-04-13T00:00:00Z,Borussia Mönchengladbach,Borussia Dortmund,None,None
+2024-04-13T00:00:00Z,FC Augsburg,1. FC Union Berlin,None,None
+2024-04-13T00:00:00Z,SV Darmstadt 98,SC Freiburg,None,None
+2024-04-13T00:00:00Z,VfB Stuttgart,Eintracht Frankfurt,None,None
+2024-04-13T00:00:00Z,RB Leipzig,VfL Wolfsburg,None,None
+2024-04-13T00:00:00Z,FC Bayern München,1. FC Köln,None,None
+2024-04-13T00:00:00Z,1. FSV Mainz 05,TSG 1899 Hoffenheim,None,None
+2024-04-13T00:00:00Z,Bayer 04 Leverkusen,SV Werder Bremen,None,None
+2024-04-13T00:00:00Z,VfL Bochum 1848,1. FC Heidenheim 1846,None,None
+2024-04-20T00:00:00Z,1. FC Union Berlin,FC Bayern München,None,None
+2024-04-20T00:00:00Z,1. FC Heidenheim 1846,RB Leipzig,None,None
+2024-04-20T00:00:00Z,Borussia Dortmund,Bayer 04 Leverkusen,None,None
+2024-04-20T00:00:00Z,SC Freiburg,1. FSV Mainz 05,None,None
+2024-04-20T00:00:00Z,TSG 1899 Hoffenheim,Borussia Mönchengladbach,None,None
+2024-04-20T00:00:00Z,VfL Wolfsburg,VfL Bochum 1848,None,None
+2024-04-20T00:00:00Z,Eintracht Frankfurt,FC Augsburg,None,None
+2024-04-20T00:00:00Z,SV Werder Bremen,VfB Stuttgart,None,None
+2024-04-20T00:00:00Z,1. FC Köln,SV Darmstadt 98,None,None
+2024-04-27T00:00:00Z,RB Leipzig,Borussia Dortmund,None,None
+2024-04-27T00:00:00Z,Borussia Mönchengladbach,1. FC Union Berlin,None,None
+2024-04-27T00:00:00Z,FC Bayern München,Eintracht Frankfurt,None,None
+2024-04-27T00:00:00Z,SC Freiburg,VfL Wolfsburg,None,None
+2024-04-27T00:00:00Z,1. FSV Mainz 05,1. FC Köln,None,None
+2024-04-27T00:00:00Z,VfL Bochum 1848,TSG 1899 Hoffenheim,None,None
+2024-04-27T00:00:00Z,FC Augsburg,SV Werder Bremen,None,None
+2024-04-27T00:00:00Z,Bayer 04 Leverkusen,VfB Stuttgart,None,None
+2024-04-27T00:00:00Z,SV Darmstadt 98,1. FC Heidenheim 1846,None,None
+2024-05-04T00:00:00Z,VfB Stuttgart,FC Bayern München,None,None
+2024-05-04T00:00:00Z,TSG 1899 Hoffenheim,RB Leipzig,None,None
+2024-05-04T00:00:00Z,1. FC Köln,SC Freiburg,None,None
+2024-05-04T00:00:00Z,Eintracht Frankfurt,Bayer 04 Leverkusen,None,None
+2024-05-04T00:00:00Z,1. FC Heidenheim 1846,1. FSV Mainz 05,None,None
+2024-05-04T00:00:00Z,SV Werder Bremen,Borussia Mönchengladbach,None,None
+2024-05-04T00:00:00Z,1. FC Union Berlin,VfL Bochum 1848,None,None
+2024-05-04T00:00:00Z,Borussia Dortmund,FC Augsburg,None,None
+2024-05-04T00:00:00Z,VfL Wolfsburg,SV Darmstadt 98,None,None
+2024-05-11T00:00:00Z,1. FSV Mainz 05,Borussia Dortmund,None,None
+2024-05-11T00:00:00Z,1. FC Köln,1. FC Union Berlin,None,None
+2024-05-11T00:00:00Z,VfL Bochum 1848,Bayer 04 Leverkusen,None,None
+2024-05-11T00:00:00Z,Borussia Mönchengladbach,Eintracht Frankfurt,None,None
+2024-05-11T00:00:00Z,FC Bayern München,VfL Wolfsburg,None,None
+2024-05-11T00:00:00Z,SV Darmstadt 98,TSG 1899 Hoffenheim,None,None
+2024-05-11T00:00:00Z,RB Leipzig,SV Werder Bremen,None,None
+2024-05-11T00:00:00Z,FC Augsburg,VfB Stuttgart,None,None
+2024-05-11T00:00:00Z,SC Freiburg,1. FC Heidenheim 1846,None,None
+2024-05-18T13:30:00Z,TSG 1899 Hoffenheim,FC Bayern München,None,None
+2024-05-18T13:30:00Z,Eintracht Frankfurt,RB Leipzig,None,None
+2024-05-18T13:30:00Z,1. FC Union Berlin,SC Freiburg,None,None
+2024-05-18T13:30:00Z,VfL Wolfsburg,1. FSV Mainz 05,None,None
+2024-05-18T13:30:00Z,VfB Stuttgart,Borussia Mönchengladbach,None,None
+2024-05-18T13:30:00Z,1. FC Heidenheim 1846,1. FC Köln,None,None
+2024-05-18T13:30:00Z,SV Werder Bremen,VfL Bochum 1848,None,None
+2024-05-18T13:30:00Z,Bayer 04 Leverkusen,FC Augsburg,None,None
+2024-05-18T13:30:00Z,Borussia Dortmund,SV Darmstadt 98,None,None
